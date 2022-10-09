@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import './priorityQueue'
 import { PriorityQueue } from './priorityQueue';
-
+import { Animated, Text, View, StyleSheet, Button, SafeAreaView } from "react-native";
 
 let toggle = false
 let count = 0

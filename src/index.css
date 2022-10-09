@@ -1,9 +1,9 @@
 
 body {
   font: 14px "Century Gothic", Futura, sans-serif;
-  margin-top: 100px;
+  margin-left: 5px;
   background-color: #070707;
-  margin-left: 300px;
+
   background-image: url("neon.jpg");
   
   
@@ -44,12 +44,12 @@ ol, ul {
   font-size: 24px;
   font-weight: bold;
   line-height: 34px;
-  height: 84px;
+  height: 70px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 84px;
+  width: 70px;
 }
 
 .square:focus {
@@ -62,7 +62,7 @@ ol, ul {
 
 .game {
   display: flex;
-  flex-direction: row;
+  flex-wrap: wrap;
   font-size: 40px;
   
 }
@@ -93,12 +93,12 @@ ol, ul {
   font-size: 24px;
   font-weight: bold;
   line-height: 34px;
-  height: 84px;
+  height: 70px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 84px;
+  width: 70px;
 }
 
 .squareEnd {
@@ -119,12 +119,12 @@ ol, ul {
   font-size: 24px;
   font-weight: bold;
   line-height: 34px;
-  height: 84px;
+  height: 70px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 84px;
+  width: 70px;
 }
 
 .squareBlock {
@@ -146,12 +146,12 @@ ol, ul {
   font-size: 24px;
   font-weight: bold;
   line-height: 34px;
-  height: 84px;
+  height: 70px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 84px;
+  width: 70px;
 }
  
 .squareVisited {
@@ -161,12 +161,12 @@ ol, ul {
   font-size: 24px;
   font-weight: bold;
   line-height: 34px;
-  height: 84px;
+  height: 70px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 84px;
+  width: 70px;
 }
 .squarePath {
 
@@ -186,12 +186,12 @@ ol, ul {
   font-size: 24px;
   font-weight: bold;
   line-height: 34px;
-  height: 84px;
+  height: 70px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 84px;
+  width: 70px;
 }
 
 
